@@ -1,5 +1,5 @@
-```
-js
+```js
+
 const { bing } = require("nayan-bing-api");
 const request = require('request')
 
